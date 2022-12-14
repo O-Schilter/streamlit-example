@@ -4,4 +4,3 @@ streamlit
 streamlit_webrtc
 opencv-python-headless
 imutils
-python
